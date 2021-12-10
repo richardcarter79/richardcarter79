@@ -16,7 +16,7 @@
 <div align=center>
 
  <h2> Stacks </h2>
-![React](https://img.shields.io/badge/react-008080?style=for-the-badge&logo=react&logoColor=Black)
+![React](https://img.shields.io/badge/react-008080?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue%20js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
