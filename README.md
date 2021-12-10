@@ -1,6 +1,3 @@
-### Hi there 👋
-🔭 I’m currently working on building a data lake for use within my company. <br>
-🌱 I’m currently learning the DevOps and SecOps pipelines to better facilitate access and workflows within our corporate data lake.
 
 <div align=right>
  
@@ -8,12 +5,12 @@
  
 </div>
 
-<!-- <div align=center>
+<div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=sang712&fontAlign=80&fontAlignY=40&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Richard%20Carter&fontAlign=80&fontAlignY=40&fontSize=50)
 
 </div>
-  -->
+ 
 <!-- <hr> -->
 
 <div align=center>
@@ -45,6 +42,10 @@
 
 
 <!--
+### Hi there 👋
+🔭 I’m currently working on building a data lake for use within my company. <br>
+🌱 I’m currently learning the DevOps and SecOps pipelines to better facilitate access and workflows within our corporate data lake.
+
 **richardcarter79/richardcarter79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
