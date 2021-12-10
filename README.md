@@ -3,7 +3,9 @@
 🌱 I’m currently learning the DevOps and SecOps pipelines to better facilitate access and workflows within our corporate data lake.
 
 <div align=right>
-![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riggz.79@gmail.com)](mailto:riggz.79@gmail.com)
+ 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riggz.79@gmail.com)](mailto:riggz.79@gmail.com)
+ 
 </div>
 
 <!-- <div align=center>
