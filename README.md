@@ -21,7 +21,7 @@
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue%20js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Arduino](https://img.shields.io/badge/Ardoino-00979d?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white)
 <!-- ![Arduino](https://img.shields.io/badge/Ardoino%20Studio-00979d?style=for-the-badge&logo=arduino&logoColor=white)
 ![C#](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
