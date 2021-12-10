@@ -1,17 +1,17 @@
 ### Hi there 👋
-🔭 I’m currently working on building a data lake for use within my company.
+🔭 I’m currently working on building a data lake for use within my company. <br>
 🌱 I’m currently learning the DevOps and SecOps pipelines to better facilitate access and workflows within our corporate data lake.
 
 <div align=right>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riggz.79@gmail.com)](mailto:riggz.79@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riggz.79@gmail.com)](mailto:riggz.79@gmail.com)
 </div>
 
-<div align=center>
+<!-- <div align=center>
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=sang712&fontAlign=80&fontAlignY=40&fontSize=50)
 
 </div>
- 
+  -->
 <!-- <hr> -->
 
 <div align=center>
