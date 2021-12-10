@@ -7,7 +7,7 @@
 
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Richard%20Carter&fontAlign=80&fontAlignY=40&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Richard%20Carter%20&fontAlign=80&fontAlignY=40&fontSize=50)
 
 </div>
  
