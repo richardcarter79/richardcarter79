@@ -34,7 +34,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/miro-ffff00?style=for-the-badge&logo=miro&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4a154b?style=for-the-badge&logo=slack&logoColor=white) 
+![Slack](https://img.shields.io/badge/Slack-4a154b?style=for-the-badge&logo=slack&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=Docker)
 <!-- ![GitLab](https://img.shields.io/badge/GitLab-fca121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira%20Software-0052cc?style=for-the-badge&logo=jira-software&logoColor=white)
 ![Mattermost](https://img.shields.io/badge/Mattermost-0058cc?style=for-the-badge&logo=mattermost&logoColor=white)  -->
